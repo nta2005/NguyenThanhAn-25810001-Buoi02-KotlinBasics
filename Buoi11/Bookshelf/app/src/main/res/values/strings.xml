@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="quota_exceeded">Google Books API quota exceeded. Check BOOKS_API_KEY in local.properties</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search books</string>
+    <string name="clear">Clear</string>
+    <string name="no_books_found">No books found</string>
+</resources>
